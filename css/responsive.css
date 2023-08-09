@@ -1,0 +1,358 @@
+/* -------------------------- *
+    (max-width: 1499px)
+*-----------------------------*/
+@media only screen and (max-width:1499px){
+    .first_img{
+        min-width: 100%;
+    }
+}
+/* -------------------------- *
+    (max-width: 1199px)
+*-----------------------------*/
+@media only screen and (max-width:1199px){
+    .section1{
+        padding:70px 0px 100px;
+    }
+    .banner_text{
+        letter-spacing:0px
+    }
+    .p_16{
+        padding: 0px 10px;
+    }
+    .icon_star{
+        padding:8px 10px;
+    }
+    .section_form{
+        padding:74px 0px;
+    }
+    .text_box_style{
+        padding:30px 10px;
+    }
+}
+
+/* -------------------------- *
+    (max-width:991px)
+*-----------------------------*/
+@media only screen and (max-width:991px){
+    .container{
+        max-width:820px
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        padding:10px;
+        font-size:14px;
+        margin: 0;
+    }
+    .pb_60{
+        padding-bottom: 50px;
+    }
+    .navbar-light .navbar-toggler{
+        border: none;
+        position: absolute;
+        top:8px;
+        right:0px;
+        outline: none;
+    }
+    .navbar-collapse{
+        background-color: #fff;
+    }
+    .navbar{
+        padding:0px;
+    }
+    .logo_img{
+        padding:14px 0px;
+    }
+    .megamenu{
+        max-height: 180px;
+        overflow-y: auto;
+    }
+    .header_fill_btn{
+        min-width:120px;
+        height:36px;
+        border: 1px solid #36aeea;
+        top:8px;
+        right: 54px;
+        position: absolute;
+    }
+    .eff_1{
+        min-width:120px;
+        height:36px;
+    }
+    .first_img{
+        top: 20px;
+    }
+    .second_img{
+        display:none
+    }
+    .ml-5{  
+        margin-left: 0px !important;
+    }
+    .large_divider{
+        height:50px
+    }
+    .progressbar li{
+        width:100%
+    }
+    .progressbar li:after{
+        border: none;
+    }
+    .travel li{
+        width:33.33%;
+        flex:0 0 33.33%
+    }
+    .grid-item{
+        width:50%;
+        padding: 0px 8px 16px 8px;
+    }
+    .thumb{
+        margin-bottom:16px;
+    }
+    .medium_divider{
+        height: 100px;
+    }
+    .text_box_style{
+        padding:45px 16px;
+    }
+    footer p{
+        font-size:16px;
+    }
+}
+
+/* -------------------------- *
+    (max-width:767px)
+*-----------------------------*/
+@media only screen and (max-width:767px){
+    .container{
+        max-width: 620px;
+    }
+    .section{
+        padding:50px 0px;
+    }
+    .pb_60{
+        padding-bottom:46px;
+    }
+    .heading_s1{
+        font-size:44px;
+        letter-spacing:3px;
+    }
+    .banner_text{
+        font-size:60px
+    }
+    .section1{
+        padding: 60px 0px;
+    }
+    .border-right{
+      border-right: none;
+    }
+    .travel li{
+        width:50%;
+        flex: 0 0 50%;
+    }
+    .background_img2{
+        height:400px;
+    }
+    footer p{
+        font-size:14px;
+    }
+    footer h3{
+        font-size:20px;
+    }  
+}
+
+/* -------------------------- *
+    (max-width:575px)
+*-----------------------------*/
+@media only screen and (max-width:575px){
+    .btn{
+        letter-spacing:2px;
+    }
+    .section{
+        padding:40px 0px;
+    }
+    .pb_60{
+        padding-bottom: 40px;
+    }
+    .letter_space{
+        letter-spacing:2px
+    }
+    .banner_btn{
+        min-width: 180px;
+        height: 44px;
+    }
+    .eff_2{
+        min-width:170px;
+        height:44px
+    }
+    .contacts_btn button,
+    .wanna_btn button,
+    .banner_btn a{
+        padding-top:8px;
+    }
+    .background_img{
+        height: 600px;
+    }
+    .heading{
+        margin-top: 60px;
+    }
+    .border_heading{
+        padding:40px 10px
+    }
+    .heading_s1{
+        font-size: 40px;
+    }
+    .banner_text{
+        font-size:46px;
+        margin-top: 0px;
+    }
+    .leads{
+        font-size:16px;
+    }
+    .section1{
+        padding: 50px 0px 90px;
+    }
+    .lead_font{
+        line-height: 20px;
+    }
+    .heading_s5{
+        padding:30px 0px;
+        line-height:22px;
+    }
+    .text_box_style{
+        padding:34px 12px;
+    }
+    .wanna_form input{
+        height:46px;
+    }
+    .wanna_btn{
+        position: relative;
+        right: 0;
+        left: 15px;
+        top: 0;
+    } 
+    .travel li{
+        width: 100%;
+        flex:0 0 100%;
+    }
+    .grid-item {
+        width:100%;
+        padding:0px 0px 16px 0px;
+    }
+    .background_img3{
+        min-height:880px;
+    }
+    .contact_text{
+        font-size:30px;
+    }
+    .contacts_form{
+        padding:30px 16px;
+    }
+    .social_icon li{
+        padding:0px 0px 16px 0px;
+    }
+    .social_icon li a i{
+        width:36px;
+        height:36px;
+        line-height: 36px;
+        font-size:16px
+    }
+}
+
+/* -------------------------- *
+    (max-width:380px)
+*-----------------------------*/
+@media only screen and (max-width:380px){
+    .btn{
+        letter-spacing: 1px;
+        font-size:12px
+    }
+    .section{
+        padding: 30px 0px;
+    }
+    .pb_30{
+        padding-bottom: 20px    ;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        padding:10px 12px;
+        font-size:14px
+    }
+    .header_fill_btn{
+        min-width:100px;
+        height:34px;
+        top:10px;
+    }
+    .eff_1{
+        width:100px;
+        height:34px;
+    }
+    .heading{
+        margin-top: 50px;
+    }
+    .border_heading{
+        padding:24px 10px;
+    }
+    .heading_s1{
+        font-size: 30px;
+    }
+    .banner_text{
+        font-size:36px;
+    }
+    .pb_60{
+        padding-bottom: 30px;
+    }
+    .section1{
+        padding:40px 0px 80px;
+    }
+    .heading_s3{
+        font-size: 22px;
+    }
+    .banner_btn{
+        min-width:136px;
+        height:36px
+    }
+    .contacts_btn button,
+    .wanna_btn button,
+    .banner_btn a{
+        padding-top:6px;
+    }
+    .eff_2{
+        min-width:150px;
+        height:40px;
+    }
+    .heading_s5{
+        padding:26px 0px;
+    }
+    .journal_img{
+        height:300px
+    }
+    .text_box_style{
+        padding:26px 6px;
+    }
+    .leads_p{
+        padding:0px 6px;
+    }
+    .italic{
+        padding-top: 12px;
+    }  
+    .text_gray{
+        line-height: 26px;
+    }   
+    .form-control{
+        height:44px
+    }
+    .contacts_form{
+        padding:26px 8px;
+    }
+    .contact_text{
+        font-size: 24px;
+    }
+    .social_icon li{
+        padding:0px 0px 14px 0px;
+    }
+    .social_icon li a i{
+        width:30px;
+        height:30px;
+        line-height: 30px;
+    }
+    footer h3{
+        font-size: 18px;
+    }  
+}
